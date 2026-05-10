@@ -19,13 +19,10 @@ source venv/bin/activate
 # 6. Install semua library
 pip install pandas numpy matplotlib seaborn scikit-learn ipykernel
 
-# 7. Install semua library
-pip install pandas numpy matplotlib seaborn scikit-learn ipykernel
-
-# 8. Install xgboost
+# 7. Install xgboost
 pip install xgboost
 
-# 9. Daftarkan ke VS Code
+# 8. Daftarkan ke VS Code
 python -m ipykernel install --user --name=venv --display-name "Python (venv)"
 ```
 
